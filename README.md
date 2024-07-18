@@ -11,6 +11,9 @@ Founded by Prof. Wasenmüller in 2021, our dynamic group of eight interdisciplin
 ### Publications
 See [Google Scholar](https://scholar.google.de/citations?user=GkHxKY8AAAAJ&hl=de)
 
+### Team
+![](images/IMG_2662_k_banner.JPG)
+
 <!--
 
 **Here are some ideas to get you started:**
